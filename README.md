@@ -60,6 +60,9 @@ Please consider citing this project in your publications if it helps your resear
       title={Uncertainty-guided symmetric multi-level supervision network for 3D left atrium segmentation in late gadolinium-enhanced MRI},
       author={Liu, Yashu and Wang, Wei and Luo, Gongning and Wang, Kuanquan and Liang, Dong and Li, Shuo},
       journal={Medical Physics},
+      volume={44},
+      number={7},
+      pages={4554-4565},
       publisher={Wiley Online Library}
       doi={10.1002/mp.15670}
     }
